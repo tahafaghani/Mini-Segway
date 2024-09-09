@@ -2,6 +2,7 @@
 
 ### Overview
 This project aims to develop a mini Segway using microcontrollers, sensors, and motor drivers. The Segway will be self-balancing and controlled through sensor feedback.
+
 ![Figuration](C:\Users\tosee\Desktop\files\Mini-Segway/ROBOT.JPG)
 
 ### Features
@@ -20,6 +21,7 @@ This project aims to develop a mini Segway using microcontrollers, sensors, and 
 - Motor driver (L298N or similar)
 - DC motors
 - -9V Battery -1A
+
 ![Mini Segway Demo](C:\Users\tosee\Desktop\files\Mini-Segway/motion.gif)
 
 ### Contributions
