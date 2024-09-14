@@ -39,7 +39,11 @@ To build the Mini Segway, you will need the following components:
 - **Motor Driver**: L298N or a similar motor driver
 - **Motors**: DC motors
 - **Power Supply**: 9V Battery (minimum 1A current)
-  
+
+
+  <p align="center">
+  <img src="https://github.com/tahafaghani/Mini-Segway/blob/main/components.PNG" width="45%" alt="Segway Model"/>
+</p>
 Here’s a simplified circuit diagram for reference:
 
 <p align="center">
