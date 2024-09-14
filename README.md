@@ -34,4 +34,9 @@ This project aims to develop a mini Segway using microcontrollers, sensors, and 
 ### Contributions
 Feel free to fork this repository and submit pull requests for any improvements or features.
 
+## Contact
+
+- **Taha Faghani** - taha.faghani.daroopi@gmail.com
+- GitHub: [tahafaghani](https://github.com/tahafaghani)
+
 
