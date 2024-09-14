@@ -1,42 +1,63 @@
+
 # Mini Segway Project
 
 ### Overview
-This project aims to develop a mini Segway using microcontrollers, sensors, and motor drivers. The Segway will be self-balancing and controlled through sensor feedback.
+This project focuses on developing a mini Segway that uses microcontrollers, sensors, and motor drivers to achieve self-balancing functionality. The Segway is designed to be controlled through sensor feedback and remote control, ensuring stability even in the presence of disturbances or rotation.
+
 ## Example of Optimized Mechanism
 
-<p align="center">
-  <img src="https://github.com/tahafaghani/Mini-Segway/blob/main/ROBOT.jpg" width="45%" alt="Before Optimization"/>
-</p>
+The Segway is designed to automatically balance itself using input from a gyroscope and accelerometer. Below is an image of the Segway model used in this project:
 
+<p align="center">
+  <img src="https://github.com/tahafaghani/Mini-Segway/blob/main/ROBOT.jpg" width="45%" alt="Segway Model"/>
+</p>
 
 ### Features
-- Self-balancing using gyroscope and accelerometer sensors.
-- Remote control YK45.
-- Posing self-balance with disturbance and rotation.
-
+- **Self-Balancing**: Maintains balance using gyroscope and accelerometer sensors (MPU6050).
+- **Remote Control**: Controlled through a YK45 remote control.
+- **Disturbance Recovery**: Automatically corrects balance when disturbed or rotated.
+  
 ### Getting Started
-1. Clone this repository: `git clone https://github.com/tahafaghani/Mini-Segway.git`
-2. Follow the wiring instructions provided in the **Design&simulation.pdf and final presentation.pdf**.
-3. Upload the code to your microcontroller using Arduino IDE or PlatformIO.
+Follow the steps below to set up and run the Mini Segway project:
 
-### Requirements
-- Arduino or compatible microcontroller
-- MPU6050 IMU
-- Motor driver (L298N or similar)
-- DC motors
-- -9V Battery -1A
+1. **Clone this repository**:
+   ```bash
+   git clone https://github.com/tahafaghani/Mini-Segway.git
+   ```
+
+2. **Wiring and Circuit Setup**: 
+   - Refer to the **Design&simulation.pdf** and **final presentation.pdf** documents for detailed wiring instructions.
+   
+3. **Upload the Code**:
+   - Open the `final-mini-segway.ino` file in the Arduino IDE or PlatformIO.
+   - Connect your Arduino or compatible microcontroller and upload the code.
+
+### Hardware Requirements
+To build the Mini Segway, you will need the following components:
+- **Microcontroller**: Arduino or any compatible board
+- **IMU**: MPU6050 (Gyroscope and Accelerometer)
+- **Motor Driver**: L298N or a similar motor driver
+- **Motors**: DC motors
+- **Power Supply**: 9V Battery (minimum 1A current)
+  
+Here’s a simplified circuit diagram for reference:
 
 <p align="center">
-  <img src="https://github.com/tahafaghani/Mini-Segway/blob/main/Circuit.PNG" width="45%" alt="Circuit"/>
+  <img src="https://github.com/tahafaghani/Mini-Segway/blob/main/Circuit.PNG" width="45%" alt="Circuit Diagram"/>
 </p>
 
+### Code
+The main code for controlling the Mini Segway is provided in the attached Arduino script, `final-mini-segway.ino`. This code handles reading sensor data, processing it to control the motors, and balancing the Segway.
 
 ### Contributions
-Feel free to fork this repository and submit pull requests for any improvements or features.
+Contributions are always welcome! If you'd like to improve the project or add new features:
+1. Fork this repository.
+2. Create a new branch for your feature or fix.
+3. Submit a pull request for review.
 
-## Contact
+### Contact
+If you have any questions or suggestions, feel free to reach out:
 
-- **Taha Faghani** - taha.faghani.daroopi@gmail.com
+- **Taha Faghani** - [taha.faghani.daroopi@gmail.com](mailto:taha.faghani.daroopi@gmail.com)
 - GitHub: [tahafaghani](https://github.com/tahafaghani)
-
 
