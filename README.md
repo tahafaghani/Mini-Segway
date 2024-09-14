@@ -2,8 +2,12 @@
 
 ### Overview
 This project aims to develop a mini Segway using microcontrollers, sensors, and motor drivers. The Segway will be self-balancing and controlled through sensor feedback.
+## Example of Optimized Mechanism
 
-![Figuration](C:\Users\tosee\Desktop\files\Mini-Segway/ROBOT.JPG)
+<p align="center">
+  <img src="https://github.com/tahafaghani/Mini-Segway/blob/main/ROBOT.jpg" width="45%" alt="Before Optimization"/>
+</p>
+
 
 ### Features
 - Self-balancing using gyroscope and accelerometer sensors.
@@ -22,7 +26,10 @@ This project aims to develop a mini Segway using microcontrollers, sensors, and 
 - DC motors
 - -9V Battery -1A
 
-![Mini Segway Demo](C:\Users\tosee\Desktop\files\Mini-Segway/motion.gif)
+<p align="center">
+  <img src="https://github.com/tahafaghani/Mini-Segway/blob/main/Circuit.PNG" width="45%" alt="Circuit"/>
+</p>
+
 
 ### Contributions
 Feel free to fork this repository and submit pull requests for any improvements or features.
