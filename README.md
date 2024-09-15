@@ -9,7 +9,7 @@ This project focuses on developing a mini Segway that uses microcontrollers, sen
 The Segway is designed to automatically balance itself using input from a gyroscope and accelerometer. Below is an image of the Segway model used in this project:
 
 <p align="center">
-  <img src="https://github.com/tahafaghani/Mini-Segway/blob/main/ROBOT.jpg" width="45%" alt="Segway Model"/>
+  <img src="https://github.com/tahafaghani/ML-App/blob/main/Exe-GUI.png" width="45%" alt="Segway Model"/>
 </p>
 
 ### Features
