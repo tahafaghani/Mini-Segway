@@ -4,6 +4,11 @@
 ### Overview
 This project focuses on developing a mini Segway that uses microcontrollers, sensors, and motor drivers to achieve self-balancing functionality. The Segway is designed to be controlled through sensor feedback and remote control, ensuring stability even in the presence of disturbances or rotation.
 
+<p align="center">
+  <img src="https://github.com/tahafaghani/Mini-Segway/blob/main/motion.gif" width="45%" alt="Segway Model"/>
+</p>
+
+
 ## Configuration
 
 The Segway is designed to automatically balance itself using input from a gyroscope and accelerometer. Below is an image of the Segway model used in this project:
