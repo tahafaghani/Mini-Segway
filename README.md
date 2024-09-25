@@ -16,6 +16,20 @@ The Segway is designed to automatically balance itself using input from a gyrosc
 - **Self-Balancing**: Maintains balance using gyroscope and accelerometer sensors (MPU6050).
 - **Remote Control**: Controlled through a YK45 remote control.
 - **Disturbance Recovery**: Automatically corrects balance when disturbed or rotated.
+
+### Solidworks Design
+All the parts and the assembly are available
+<p align="center">
+  <img src="https://github.com/tahafaghani/Mini-Segway/blob/main/" width="45%" alt="Solidworks"/>
+</p>
+
+### Simulink and Simscape
+Simulate the robot in Simscape, using PID tuner to control the robot
+
+<p align="center">
+  <img src="https://github.com/tahafaghani/Mini-Segway/blob/main/" width="45%" alt="Segway Model"/>
+</p>
+
   
 ### Getting Started
 Follow the steps below to set up and run the Mini Segway project:
