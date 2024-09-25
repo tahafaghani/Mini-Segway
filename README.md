@@ -20,14 +20,14 @@ The Segway is designed to automatically balance itself using input from a gyrosc
 ### Solidworks Design
 All the parts and the assembly are available
 <p align="center">
-  <img src="https://github.com/tahafaghani/Mini-Segway/blob/main/" width="45%" alt="Solidworks"/>
+  <img src="https://github.com/tahafaghani/Mini-Segway/blob/main/Solidworks.png" width="45%" alt="Solidworks"/>
 </p>
 
 ### Simulink and Simscape
 Simulate the robot in Simscape, using PID tuner to control the robot
 
 <p align="center">
-  <img src="https://github.com/tahafaghani/Mini-Segway/blob/main/" width="45%" alt="Segway Model"/>
+  <img src="https://github.com/tahafaghani/Mini-Segway/blob/main/simscape.gif" width="45%" alt="Segway Model"/>
 </p>
 
   
